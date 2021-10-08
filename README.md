@@ -1,6 +1,6 @@
 # Atención acuérdate de intalar los Módulos
 
-## Instala los modulos, vete a terminal, nuevo terminal y escribeup
+## Instala los modulos, vete a terminal, nuevo terminal y escribe:
 ```
 npm install
 ```
